@@ -30,3 +30,5 @@ while(i<=len(l)-1):
         ele2=l[i]
     i+=1
 print(f"first is {ele1} and second is {ele2}")
+
+hey 
